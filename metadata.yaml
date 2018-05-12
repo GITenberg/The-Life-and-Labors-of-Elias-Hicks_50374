@@ -1,15 +1,21 @@
 _repo: The-Life-and-Labors-of-Elias-Hicks_50374
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Bond, Elizabeth Powell
     gutenberg_agent_id: '45845'
     url: http://www.gutenberg.org/2009/agents/45845
+covers:
+- cover_type: archival
+  image_path: 50374-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilbur, Henry Watson
     gutenberg_agent_id: '45844'
     url: http://www.gutenberg.org/2009/agents/45844
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50374#The-Life-and-Labors-of-Elias-Hicks
 gutenberg_issued: '2015-11-03'
 gutenberg_type: Text
 identifiers:
